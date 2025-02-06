@@ -13,7 +13,7 @@
     "badge.foreground": "#C1C1C1",
     "button.background": "#333333",
     "editor.background": "#181818",
-    "editor.lineHighlightBorder": "#303030",
+    "editor.lineHighlightBorder": "#181818",
     "editorGroupHeader.tabsBackground": "#151515",
     "editorGroupHeader.tabsBorder": "#151515",
     "editorSuggestWidget.background": "#151515",
@@ -339,6 +339,5 @@
         "foreground": "#666666"
       }
     }
-	],
-	"semanticHighlighting": true
+	]
 }
